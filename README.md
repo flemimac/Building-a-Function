@@ -55,7 +55,7 @@ def Grafic():
     ax.grid()
     plt.show()
 ```
-We create a button that, when activated, turns on the "Graphics" function and displays all the buttons/text at the end of the code.
+We create a button that, when activated, turns on the "Grafic" function and displays all the buttons/text at the end of the code.
 ```python
 button = tk.Button(text='Построить', width=8, height=2, command=Grafic)
 
@@ -149,7 +149,7 @@ def Grafic():
     ax.grid()
     plt.show()
 ```
-Мы создаем кнопку, которая при активации включает функцию "Графика" и отображаем все кнопки/текст в конце кода.
+Мы создаем кнопку, которая при активации включает функцию "График" и отображаем все кнопки/текст в конце кода.
 ```python
 button = tk.Button(text='Построить', width=8, height=2, command=Grafic)
 
